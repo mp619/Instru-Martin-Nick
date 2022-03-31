@@ -34,3 +34,14 @@ This is the STM32 code built using the STM32Cube IDE for the STM32F446 Nucleo-64
 - ARM Library
   - [CMSIS DSP Library](https://www.keil.com/pack/doc/cmsis/DSP/html/index.html)
   - [CMSIS ATM Matrix Accelerated Library](https://www.keil.com/pack/doc/cmsis/DSP/html/group__groupMatrix.html)
+
+## Setup
+
+- Download and install [STM32Cube IDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+- Clone all contents to known location
+- Create new STM32 project with existing Testing_.IOC file based upon the STM32F446
+- Copy mainFinal1.c into \Src
+- Copy arm_math.h and main.h into \Inc
+- Copy \libs folder into project and link it via the MCU G++ Linker
+- Connect STM32 to PC using usb port
+- Upload onto STM32
