@@ -22,3 +22,9 @@ This is the STM32 code built using the STM32Cube IDE for the STM32F446 Nucleo-64
 ├── libs
 └── past_versions  
 ```
+
+## Requirements
+
+- [STM32F446 Nucleo-64](https://www.st.com/en/microcontrollers-microprocessors/stm32f446.html) 
+- LCR Pre-Build PCB
+- \pm
