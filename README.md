@@ -27,4 +27,10 @@ This is the STM32 code built using the STM32Cube IDE for the STM32F446 Nucleo-64
 
 - [STM32F446 Nucleo-64](https://www.st.com/en/microcontrollers-microprocessors/stm32f446.html) 
 - LCR Pre-Build PCB
-- $`\pm`$
+- +/- 10V
+- 5V
+- 3.3V
+- Gnd
+- ARM Library
+  - [CMSIS DSP Library](https://www.keil.com/pack/doc/cmsis/DSP/html/index.html)
+  - [CMSIS ATM Matrix Accelerated Library](https://www.keil.com/pack/doc/cmsis/DSP/html/group__groupMatrix.html)
