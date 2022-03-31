@@ -48,4 +48,4 @@ This is the STM32 code built using the STM32Cube IDE for the STM32F446 Nucleo-64
 
 ## Picture
 
-![FinalPic]()
+![FinalPic](circuit_photo.jpg)
