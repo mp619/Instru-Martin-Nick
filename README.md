@@ -20,6 +20,5 @@ This is the STM32 code built using the STM32Cube IDE for the STM32F446 Nucleo-64
 ├── Testing_ Debug.launch
 ├── Testing_.ioc
 ├── libs
-└── past_versions
-    
- ``
+└── past_versions  
+```
