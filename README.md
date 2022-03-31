@@ -45,3 +45,7 @@ This is the STM32 code built using the STM32Cube IDE for the STM32F446 Nucleo-64
 - Copy \libs folder into project and link it via the MCU G++ Linker
 - Connect STM32 to PC using usb port
 - Upload onto STM32
+
+## Picture
+
+![FinalPic]()
